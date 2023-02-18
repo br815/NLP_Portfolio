@@ -10,4 +10,4 @@ Code for this component: [text_processing.py](text_processing.py)
 
 ## Word Guessing Game
 Portfolio 2: Word Guessing Game\
-Code for this component: [word_guessing_game](word_guessing_game.py)
+Code for this component: [word_guessing_game.py](word_guessing_game.py)
