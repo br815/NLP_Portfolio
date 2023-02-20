@@ -13,4 +13,4 @@ Writeup: none\
 Code: [word_guessing_game.py](word_guessing_game.py)
 
 ## Portfolio 3: WordNet
-Notebok: 
+Notebook: 
