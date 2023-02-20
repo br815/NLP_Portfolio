@@ -9,4 +9,5 @@ Writeup: [Text Processing With Python](Text_Processing_With_Python.pdf)\
 Code: [text_processing.py](text_processing.py)
 
 ## Portfolio 2: Word Guessing Game
+Writeup: none
 Code: [word_guessing_game.py](word_guessing_game.py)
