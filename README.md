@@ -1,10 +1,16 @@
 # NLP_Portfolio
 CS 4395 (Natural Language Processing) - UTD Spring 2023
 
-## Overview of NLP
-Portfolio component 0: [Overview of NLP](Overview_of_NLP.pdf)
+## Portfolio 0: Overview of NLP
+Writeup: [Overview of NLP](Overview_of_NLP.pdf)
 
-## Text Processing
-Portfolio component 1: [Text Processing With Python](Text_Processing_With_Python.pdf)\
-Code for this component: [text_processing.py](text_processing.py)
+## Portfolio 1: Text Processing
+Writeup: [Text Processing With Python](Text_Processing_With_Python.pdf)\
+Code: [text_processing.py](text_processing.py)
 
+## Portfolio 2: Word Guessing Game
+Writeup: none\
+Code: [word_guessing_game.py](word_guessing_game.py)
+
+## Portfolio 3: WordNet
+Notebook: 
