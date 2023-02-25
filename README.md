@@ -7,7 +7,7 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 1: Text Processing
 * [Instructions](/Portfolio1/Portfolio1_Text_Processing_with_Python.pdf)
-* Writeup: [Text Processing With Python](Text_Processing_With_Python.pdf)
+* Writeup: [Text Processing With Python](/Portfolio1/Text_Processing_With_Python.pdf)
 * Code: [text_processing.py](/Portfolio1/text_processing.py)
 
 ## Portfolio 2: Word Guessing Game
