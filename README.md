@@ -1,4 +1,4 @@
-# NLP_Portfolio
+# NLP Portfolio
 CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 0: Overview of NLP
