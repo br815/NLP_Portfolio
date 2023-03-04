@@ -21,5 +21,8 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 ## Portfolio 4: N-Grams
 * [Instructions](/Portfolio4/Portfolio4_N-grams.pdf)
 
-## Portfolio 5: Web Crawler
-* [Instructions](/Portfolio5/Portfolio5_Web_Crawler.pdf)
+## Portfolio 5: Sentence Parsing
+* [Instructions](/Portfolio5/Portfolio5_Sentence_Parsing.pdf)
+
+## Portfolio 6: Web Crawler
+* [Instructions](/Portfolio6/Portfolio6_Web_Crawler.pdf)
