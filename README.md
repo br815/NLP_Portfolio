@@ -23,6 +23,7 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 5: Sentence Parsing
 * [Instructions](/Portfolio5/Portfolio5_Sentence_Parsing.pdf)
+* Writeup: [Sentence Parsing](/Portfolio5/Sentence_Parsing.pdf)
 
 ## Portfolio 6: Web Crawler
 * [Instructions](/Portfolio6/Portfolio6_Web_Crawler.pdf)
