@@ -1,6 +1,6 @@
 # Name: Bushra Rahman
 # Class: CS 4395.001
-# Assignment: NLP Portfolio 2
+# Assignment: Word Guessing Game
 # Due date: 2/18/23
 
 import sys

@@ -1,6 +1,6 @@
 # Name: Bushra Rahman
 # Class: CS 4395.001
-# Assignment: NLP Portfolio 1
+# Assignment: Text Processing with Python
 # Due date: 2/4/23
 
 import sys
