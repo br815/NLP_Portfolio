@@ -20,6 +20,10 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 4: N-Grams
 * [Instructions](/Portfolio4/Portfolio4_N-grams.pdf)
+* Writeup: [N-Grams](/Portfolio1/NGrams.pdf)
+* Code: 
+** [part1.py](/Portfolio4/part1.py)
+** [part2.py](/Portfolio4/part2.py)
 
 ## Portfolio 5: Sentence Parsing
 * [Instructions](/Portfolio5/Portfolio5_Sentence_Parsing.pdf)
