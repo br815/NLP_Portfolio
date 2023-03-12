@@ -121,8 +121,7 @@ def knowledge_base(term, input_filename):
     # It's amazing what lack of sleep can do to a programmer.
     # At 2 AM, I couldn't wrap my head around the logic of this function at all.
     # But when I woke up at 11 AM the next day,
-    # my very first thought, as I roused from my dreams, was to implement the knowledge base
-    # using list comprehension in the function and 2 nested for-loops in main().
+    # my very first thought was to implement the knowledge base using list comprehension and nested for-loops in main().
     # Half an hour later, I had finished coding and testing it.
     # Sleep is important.
 # End of knowledge_base()
