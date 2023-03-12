@@ -1,4 +1,4 @@
-# Name: Bushra Rahman
+# Names: Ghaida Alshiddi & Bushra Rahman
 # Class: CS 4395.001
 # Assignment: N-grams Part 2
 # Due date: 3/4/23
