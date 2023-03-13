@@ -156,7 +156,7 @@ if __name__ == "__main__":
     # List comprehension used to get all words in text (i.e. no punctuation or numbers).
     all_words = [tok.lower() for tok in word_tokenize(text_in) if tok.isalpha()]
     # Then use set() on all_words to create a set only of the unique words in text.
-    # The lower() above is so that 2 same words won't be considered different in the set just bc one is uppercase.
+    # lower() was used so that 2 same words won't be considered different in the set just bc one is uppercase.
     unique_words = list(set(all_words))
     # Last, calculate the number of unique tokens divided by the total number of tokens.
     lex_div = len(unique_words)/len(all_words)
