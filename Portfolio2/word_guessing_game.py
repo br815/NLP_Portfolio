@@ -18,17 +18,17 @@ from random import randint
 def process_text(raw_text):
     # PART A:
     # List comprehension used to tokenize raw text
-    # and reduce tokens to only those that meet the following specifications:
+    # and reduce tokens to only those that meet the desired requirements:
     # tokens that are alpha (i.e. are words), not stopwords, and are more than 5 letters long.
-    specified_tokens = [tok.lower() for tok in word_tokenize(raw_text)
+    desired_tokens = [tok.lower() for tok in word_tokenize(raw_text)
                        if tok.isalpha() and tok not in stopwords.words('english') and len(tok) > 5]
-    # print("\nList of tokens that meet the specified:", specified_tokens)
+    # print("\nList of desired tokens:", desired_tokens)
 
     # PART B:
     # List comprehension used to lemmatize processed tokens
     # and reduce to a set of unique lemmas.
     wnl = WordNetLemmatizer()
-    all_lemmas = [wnl.lemmatize(tok) for tok in specified_tokens]
+    all_lemmas = [wnl.lemmatize(tok) for tok in desired_tokens]
     unique_lemmas = list(set(all_lemmas))
     # print('\nSet of unique lemmas:', unique_lemmas)
 
@@ -49,13 +49,13 @@ def process_text(raw_text):
 
     # PART E:
     # Print the number of tokens from PART A and the number of nouns from PART D.
-    print("\nThe number of tokens from part (a) is " + str(len(specified_tokens)) + ".")
+    print("\nThe number of tokens from part (a) is " + str(len(desired_tokens)) + ".")
     print("The number of nouns from part (d) is " + str(len(noun_lemmas)) + ".")
 
     # PART F:
     # Return tokens (not unique tokens) from PART A and nouns from PART D.
     # Two values are returned as a tuple.
-    return specified_tokens, noun_lemmas
+    return desired_tokens, noun_lemmas
 
 # End of process_text()
 
