@@ -32,7 +32,7 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 6: Web Crawler
 * [Instructions](/Portfolio6/Instructions6_Web_Crawler.pdf)
-* Writeup: [Web_Crawler](/Portfolio6/Web_Crawler.pdf)
+* Writeup: [Web Crawler](/Portfolio6/Web_Crawler.pdf)
 * Code: [web_crawler.py](/Portfolio6/web_crawler.py)
 
 ## Portfolio 7: Chatbot
