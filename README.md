@@ -35,9 +35,9 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 * Writeup: [Web Crawler](/Portfolio6/Web_Crawler.pdf)
 * Code: [web_crawler.py](/Portfolio6/web_crawler.py)
 
-## Portfolio 7: Text Classification
-* [Instructions](/Portfolio7/Instructions7_Text_Classification.pdf)
-* Python Notebook: [Text Classification](/Portfolio7/Text_Classification.pdf)
+## Portfolio 7: Text Classification 1
+* [Instructions](/Portfolio7/Instructions7_Text_Classification_1.pdf)
+* Python Notebook: [Text Classification 1](/Portfolio7/Text_Classification_1.pdf)
 
 ## Portfolio 8: ACL Paper Summary
 * [Instructions](/Portfolio8/Instructions8_ACL_Paper_Summary.pdf)
@@ -45,3 +45,7 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 9: Chatbot
 * [Instructions](/Portfolio9/Instructions9_Chatbot.pdf)
+
+## Portfolio 10: Text Classification 2
+* [Instructions](/Portfolio10/Instructions10_Text_Classification_2.pdf)
+* Python Notebook: [Text Classification 2](/Portfolio10/Text_Classification_2.pdf)
