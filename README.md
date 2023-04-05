@@ -41,6 +41,7 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 8: ACL Paper Summary
 * [Instructions](/Portfolio8/Instructions8_ACL_Paper_Summary.pdf)
+* Writeup: [ACL Paper Summary](/Portfolio8/ACL_Paper_Summary.pdf)
 
 ## Portfolio 9: Chatbot
 * [Instructions](/Portfolio9/Instructions9_Chatbot.pdf)
