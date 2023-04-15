@@ -45,6 +45,8 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 9: Chatbot
 * [Instructions](/Portfolio9/Instructions9_Chatbot.pdf)
+* Writeup: [Chatbot Report](/Portfolio6/Chatbot_Report.pdf)
+* Code: [chatbot.py](/Portfolio9/chatbot.py)
 
 ## Portfolio 10: Text Classification 2
 * [Instructions](/Portfolio10/Instructions10_Text_Classification_2.pdf)
