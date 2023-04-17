@@ -38,6 +38,7 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 ## Portfolio 7: Text Classification 1
 * [Instructions](/Portfolio7/Instructions7_Text_Classification_1.pdf)
 * Python Notebook: [Text Classification 1](/Portfolio7/Text_Classification_1.pdf)
+* [archive](/archive): dataset
 
 ## Portfolio 8: ACL Paper Summary
 * [Instructions](/Portfolio8/Instructions8_ACL_Paper_Summary.pdf)
@@ -50,4 +51,5 @@ CS 4395 (Natural Language Processing) - UTD Spring 2023
 
 ## Portfolio 10: Text Classification 2
 * [Instructions](/Portfolio10/Instructions10_Text_Classification_2.pdf)
+* [archive](/archive): dataset
 
