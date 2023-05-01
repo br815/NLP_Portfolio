@@ -55,6 +55,6 @@ GitHub Pages link: https://br815.github.io/NLP_Portfolio/
 * [Instructions](/Portfolio10/Instructions10_Text_Classification_2.pdf)
 * [archive](/archive): dataset
 
-## Portfolio 11: Overview of NLP
+## Portfolio 11: NLP Portfolio Summary
 * [Instructions](/Portfolio11/Instructions11_Portfolio_Summary_NLP.pdf)
 * Writeup: [NLP Portfolio Summary](/Portfolio11/Portfolio_Summary_NLP.pdf)
