@@ -87,7 +87,7 @@ def guessing_game(wordlist):
             if not re.fullmatch('[A-Za-z]', guess):
                 guess = input("Please enter one letter (a-z): ").lower()
             elif guess in guesses:
-                guess = input("Please a letter you haven't already guessed: ").lower()
+                guess = input("Please enter a letter you haven't already guessed: ").lower()
         guesses += guess  # Put the guess in the string of already-guessed letters.
 
         # Process input: it is either quit, correct, or incorrect
