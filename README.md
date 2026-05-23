@@ -1,6 +1,6 @@
 # NLP Portfolio | Bushra Rahman
 ## CS 4395 (Human Language Technologies/Natural Language Processing) | UTD Spring 2023
-GitHub Pages link: https://br815.github.io/NLP_Portfolio/
+GitHub Pages link: https://br815.github.io/NLP-portfolio/
 
 ## Portfolio 0: Overview of NLP
 * [Instructions](/Portfolio0/Instructions0_Setup.pdf)
